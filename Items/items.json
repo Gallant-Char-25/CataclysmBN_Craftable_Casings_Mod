@@ -1,0 +1,10 @@
+[
+    {
+        "id": "cc_brass",
+        "copy-from": "scrap_bronze",
+        "type": "GENERIC",
+        "name": { "str": "brass" },
+        "description": "Scrap of brass, alloy of copper and zinc. Often used in bullet casings for it's corrosion resistance.",
+        "material": "brass"
+    }
+]

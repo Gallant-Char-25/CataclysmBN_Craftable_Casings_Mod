@@ -1,0 +1,9 @@
+{
+    "type": "MOD_INFO",
+    "id": "CasingCrafting",
+    "name": "Craftable Bullet Casings",
+    "description": "Adding craft recipes to bullet casings, as well as brass itself. May be OP and unbalanced",
+    "category": "items",
+    "authors": [ "GallantChar" ],
+    "dependencies": [ "bn" ]
+}

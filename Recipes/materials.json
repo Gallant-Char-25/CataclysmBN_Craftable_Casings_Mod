@@ -1,0 +1,21 @@
+[
+    {
+        "type": "recipe",
+        "result": "cc_brass",
+        "category": "CC_OTHER",
+        "subcategory": "CSC_OTHER_MATERIALS",
+        "skill_used": "fabrication",
+        "difficulty": 2,
+        "time": "15 m",
+        "batch_time_factors": [ 90, 4 ],
+        "autolearn": true,
+        "using": [ [ "forging_standard", 1, "surface_heat", 10, "LIST"] ],
+        "tools": [ [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ] ],
+        "components": [
+          [
+            [ "zinc_metal", 15 ], [ "chem_zinc_powder", 150 ]
+          ],
+          [ [ "copper_scrap_equivalent", 2, "LIST" ] ]
+        ]
+    }
+]
