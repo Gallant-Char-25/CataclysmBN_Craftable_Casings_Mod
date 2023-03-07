@@ -1,0 +1,36 @@
+[
+    {
+        "type": "recipe",
+        "result": "shot_hull",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_COMPONENTS",
+        "skill_used": "fabrication",
+        "difficulty": 7,
+        "skills_required": [ "gun", 6 ],
+        "time": "1 h",
+        "charges": 20,
+        "batch_time_factors": [ 90, 5 ],
+        "book_learn": [ [ "recipe_bullets", 5 ], [ "manual_shotgun", 5 ] ],
+        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ] ],
+        "components": [ [ [ "cc_brass", 1 ] ], [ [ "plastic_chunk", 5 ] ] ]
+    },
+    {
+        "type": "recipe",
+        "result": "410shot_hull",
+        "category": "CC_AMMO",
+        "subcategory": "CSC_AMMO_COMPONENTS",
+        "skill_used": "fabrication",
+        "difficulty": 7,
+        "skills_required": [ "gun", 6 ],
+        "time": "1 h",
+        "charges": 20,
+        "batch_time_factors": [ 90, 5 ],
+        "book_learn": [ [ "recipe_bullets", 5 ], [ "manual_shotgun", 5 ] ],
+        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ] ],
+        "components": [ [ [ "cc_brass", 1 ] ], [ [ "plastic_chunk", 4 ] ] ]
+    }
+]
