@@ -2,7 +2,6 @@
     {
         "type": "recipe",
         "result": "223_casing",
-        "id": "223_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -20,7 +19,6 @@
     {
         "type": "recipe",
         "result": "270win_casing",
-        "id": "270win_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -38,7 +36,6 @@
     {
         "type": "recipe",
         "result": "300_casing",
-        "id": "300_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -56,7 +53,6 @@
     {
         "type": "recipe",
         "result": "3006_casing",
-        "id": "3006_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -74,7 +70,6 @@
     {
         "type": "recipe",
         "result": "300blk_casing",
-        "id": "300blk_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -92,7 +87,6 @@
     {
         "type": "recipe",
         "result": "308_casing",
-        "id": "308_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -110,7 +104,6 @@
     {
         "type": "recipe",
         "result": "4570_casing",
-        "id": "4570_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -128,7 +121,6 @@
     {
         "type": "recipe",
         "result": "50_casing",
-        "id": "50_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -146,7 +138,6 @@
     {
         "type": "recipe",
         "result": "700nx_casing",
-        "id": "700nx_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -164,7 +155,6 @@
     {
         "type": "recipe",
         "result": "545_casing",
-        "id": "545_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -181,7 +171,6 @@
     {
         "type": "recipe",
         "result": "762_casing",
-        "id": "762_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -198,7 +187,6 @@
     {
         "type": "recipe",
         "result": "762_51_casing",
-        "id": "762_51_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -216,7 +204,6 @@
     {
         "type": "recipe",
         "result": "762R_casing",
-        "id": "762R_casing",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -234,7 +221,6 @@
     {
         "type": "recipe",
         "result": "5x50_hull",
-        "id": "5x50_hull",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",

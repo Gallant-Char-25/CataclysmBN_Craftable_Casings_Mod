@@ -2,7 +2,6 @@
     {
         "type": "recipe",
         "result": "shot_hull",
-        "id": "shot_hull",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
@@ -20,7 +19,6 @@
     {
         "type": "recipe",
         "result": "410shot_hull",
-        "id": "410shot_hull",
         "category": "CC_AMMO",
         "subcategory": "CSC_AMMO_COMPONENTS",
         "skill_used": "fabrication",
