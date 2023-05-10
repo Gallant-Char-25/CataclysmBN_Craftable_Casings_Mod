@@ -9,11 +9,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -26,11 +25,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -43,11 +41,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -60,11 +57,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -77,11 +73,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -94,11 +89,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -111,11 +105,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -128,11 +121,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -145,11 +137,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -162,11 +153,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ], [ "steel_standard", 1 ] ],
+        "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ]
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ]
     },
     {
         "type": "recipe",
@@ -178,11 +168,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ], [ "steel_standard", 1 ] ],
+        "using": [ [ "forging_standard", 1 ], [ "steel_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ]
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ]
     },
     {
         "type": "recipe",
@@ -194,11 +183,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -211,11 +199,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "press", -1 ] ], [ [ "swage", -1 ] ] ],
         "components": [ [ [ "cc_brass", 2 ] ] ]
     },
     {
@@ -228,11 +215,10 @@
         "skills_required": [ "gun", 6 ],
         "time": "1 h",
         "charges": 10,
-        "batch_time_factors": [ 90, 5 ],
         "book_learn": [ [ "recipe_bullets", 5 ], [ "mag_rifle", 5 ] ],
-        "using": [ [ "forging_standard", 1 ], [ "bullet_forming", 2 ] ],
+        "using": [ [ "forging_standard", 1 ] ],
         "qualities": [ { "id": "ANVIL", "level": 3 }, { "id": "HAMMER", "level": 3 }, { "id": "CHISEL", "level": 3 } ],
-        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "mold_plastic", -1 ] ] ],
+        "tools": [ [ [ "tongs", -1 ] ], [ [ "crucible", -1 ], [ "crucible_clay", -1 ] ], [ [ "swage", -1 ] ], [ [ "press", -1 ] ], [ [ "mold_plastic", -1 ] ] ],
         "components": [ [ [ "cc_brass", 1 ] ], [ [ "plastic_chunk", 5 ] ] ]
     }
 ]
